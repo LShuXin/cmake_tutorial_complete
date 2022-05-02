@@ -1,4 +1,0 @@
-/Users/apple/Documents/Repositories/BackEnd/Languages/C/cmake_tutorial_complete/build/CMakeFiles/hello.dir
-/Users/apple/Documents/Repositories/BackEnd/Languages/C/cmake_tutorial_complete/build/CMakeFiles/rebuild_cache.dir
-/Users/apple/Documents/Repositories/BackEnd/Languages/C/cmake_tutorial_complete/build/CMakeFiles/edit_cache.dir
-/Users/apple/Documents/Repositories/BackEnd/Languages/C/cmake_tutorial_complete/build/CMakeFiles/libhello.dir
