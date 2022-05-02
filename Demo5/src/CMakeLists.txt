@@ -1,6 +1,6 @@
 include_directories(${PROJECT_SOURCE_DIR}/libhello)
 set(APP_SRC main.c)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 add_executable(hello ${APP_SRC})
 target_link_libraries(hello libhello)
-// 这个配置文件的目的是告诉编译器添加一个可执行文件
-// 并且将这个可执行文件与一个库进行链接
+

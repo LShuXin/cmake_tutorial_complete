@@ -5,3 +5,5 @@ add_library(libhello ${LIB_SRC})
 add_executable(hello ${APP_SRC})
 target_link_libraries(hello libhello)
 set_target_properties(libhello PROPERTIES OUTPUT_NAME "hello")
+// 添加一个库，添加一个可执行文件，然后链接他们
+// 并且对这个库改了名字
